@@ -58,8 +58,5 @@ public class OperasiMatematika {
 
         boolean c = !true;
         System.out.println(c);
-
-
-
     }
 }

@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="b5ea6335-adda-4ee3-b5e0-93ee33b4c360" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/OperasiMatematika.java" afterPath="$PROJECT_DIR$/src/OperasiMatematika.java" />
     </list>
     <ignored path="BelajarJavaDasar.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -60,35 +61,31 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="TipeDataBukanPrimitif.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/TipeDataBukanPrimitif.java">
+      <file leaf-file-name="OperasiMatematika.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/OperasiMatematika.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="43" column="35" selection-start="1622" selection-end="1622" vertical-scroll-proportion="0.0">
+            <state line="59" column="30" selection-start="1715" selection-end="1715" vertical-scroll-proportion="0.0">
               <folding>
-                <element signature="e#242#311#0" expanded="false" />
+                <element signature="e#237#268#0" expanded="false" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="TipeDataArray.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/TipeDataArray.java">
+      <file leaf-file-name="OperasiPerbandingan.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/OperasiPerbandingan.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="79" column="7" selection-start="2133" selection-end="2133" vertical-scroll-proportion="0.0">
+            <state line="24" column="31" selection-start="828" selection-end="828" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="OperasiMatematika.java" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/OperasiMatematika.java">
+      <file leaf-file-name="OperasiBoolean.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/OperasiBoolean.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="59" column="28" selection-start="1713" selection-end="1713" vertical-scroll-proportion="1.9561644">
-              <folding>
-                <element signature="e#237#268#0" expanded="false" />
-                <element signature="e#726#747#0" expanded="false" />
-                <element signature="e#1274#1290#0" expanded="false" />
-              </folding>
+            <state line="18" column="37" selection-start="654" selection-end="654" vertical-scroll-proportion="0.83835614">
+              <folding />
             </state>
           </provider>
         </entry>
@@ -117,6 +114,8 @@
         <option value="$PROJECT_DIR$/src/TipeDataBukanPrimitif.java" />
         <option value="$PROJECT_DIR$/src/TipeDataArray.java" />
         <option value="$PROJECT_DIR$/src/OperasiMatematika.java" />
+        <option value="$PROJECT_DIR$/src/OperasiPerbandingan.java" />
+        <option value="$PROJECT_DIR$/src/OperasiBoolean.java" />
       </list>
     </option>
   </component>
@@ -152,20 +151,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="PackagesPane">
-        <subPane>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="BelajarJavaDasar" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="BelajarJavaDasar" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewModuleNode" />
-            </PATH_ELEMENT>
-          </PATH>
-        </subPane>
-      </pane>
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -210,6 +195,20 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="PackagesPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BelajarJavaDasar" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BelajarJavaDasar" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewModuleNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -225,43 +224,11 @@
     <property name="GoToClass.toSaveIncludeLibraries" value="false" />
     <property name="MemberChooser.showClasses" value="true" />
     <property name="GoToClass.includeLibraries" value="false" />
-    <property name="dynamic.classpath" value="false" />
-    <property name="options.splitter.details.proportions" value="0.2" />
     <property name="options.searchVisible" value="true" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="dynamic.classpath" value="false" />
   </component>
-  <component name="RunManager" selected="Application.OperasiMatematika">
-    <configuration default="false" name="Variable" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="Variable" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="BelajarJavaDasar" />
-      <envs />
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
-      <method />
-    </configuration>
-    <configuration default="false" name="TipeDataBoolean" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="TipeDataBoolean" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="BelajarJavaDasar" />
-      <envs />
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Application.OperasiBoolean">
     <configuration default="false" name="TipeDataBukanPrimitif" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="TipeDataBukanPrimitif" />
       <option name="VM_PARAMETERS" />
@@ -310,6 +277,38 @@
       <ConfigurationWrapper RunnerId="Run" />
       <method />
     </configuration>
+    <configuration default="false" name="OperasiPerbandingan" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="OperasiPerbandingan" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="BelajarJavaDasar" />
+      <envs />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="OperasiBoolean" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="OperasiBoolean" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="BelajarJavaDasar" />
+      <envs />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
     <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
       <module name="" />
       <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m" />
@@ -330,6 +329,24 @@
       <method>
         <option name="AntTarget" enabled="false" />
         <option name="BuildArtifacts" enabled="false" />
+        <option name="Maven.BeforeRunTask" enabled="false" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module name="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method>
+        <option name="AntTarget" enabled="false" />
+        <option name="BuildArtifacts" enabled="false" />
+        <option name="Make" enabled="true" />
         <option name="Maven.BeforeRunTask" enabled="false" />
       </method>
     </configuration>
@@ -358,24 +375,6 @@
       <envs />
       <properties />
       <listeners />
-      <method>
-        <option name="AntTarget" enabled="false" />
-        <option name="BuildArtifacts" enabled="false" />
-        <option name="Make" enabled="true" />
-        <option name="Maven.BeforeRunTask" enabled="false" />
-      </method>
-    </configuration>
-    <configuration default="true" type="Applet" factoryName="Applet">
-      <module name="" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="HTML_FILE_NAME" />
-      <option name="HTML_USED" value="false" />
-      <option name="WIDTH" value="400" />
-      <option name="HEIGHT" value="300" />
-      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
-      <option name="VM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
       <method>
         <option name="AntTarget" enabled="false" />
         <option name="BuildArtifacts" enabled="false" />
@@ -428,11 +427,11 @@
       </method>
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.Variable" />
-      <item index="1" class="java.lang.String" itemvalue="Application.TipeDataBoolean" />
-      <item index="2" class="java.lang.String" itemvalue="Application.TipeDataBukanPrimitif" />
-      <item index="3" class="java.lang.String" itemvalue="Application.TipeDataArray" />
-      <item index="4" class="java.lang.String" itemvalue="Application.OperasiMatematika" />
+      <item index="0" class="java.lang.String" itemvalue="Application.TipeDataBukanPrimitif" />
+      <item index="1" class="java.lang.String" itemvalue="Application.TipeDataArray" />
+      <item index="2" class="java.lang.String" itemvalue="Application.OperasiMatematika" />
+      <item index="3" class="java.lang.String" itemvalue="Application.OperasiPerbandingan" />
+      <item index="4" class="java.lang.String" itemvalue="Application.OperasiBoolean" />
     </list>
     <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
       <Host>localhost</Host>
@@ -589,44 +588,48 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Variable.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="26" column="84" selection-start="757" selection-end="757" vertical-scroll-proportion="0.5421903">
-          <folding />
-        </state>
+        <state line="26" column="84" selection-start="757" selection-end="757" vertical-scroll-proportion="0.5421903" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/KonversiDataNumber.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="48" selection-start="785" selection-end="785" vertical-scroll-proportion="0.518851">
-          <folding>
-            <element signature="e#452#489#0" expanded="false" />
-          </folding>
-        </state>
+        <state line="19" column="48" selection-start="785" selection-end="785" vertical-scroll-proportion="0.518851" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/TipeDataBukanPrimitif.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="43" column="35" selection-start="1622" selection-end="1622" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="e#242#311#0" expanded="false" />
-          </folding>
+        <state line="43" column="35" selection-start="1622" selection-end="1622" vertical-scroll-proportion="0.81508076">
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/TipeDataArray.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="79" column="7" selection-start="2133" selection-end="2133" vertical-scroll-proportion="0.0">
+        <state line="79" column="7" selection-start="2133" selection-end="2133" vertical-scroll-proportion="2.4111311">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/OperasiMatematika.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="59" column="28" selection-start="1713" selection-end="1713" vertical-scroll-proportion="1.9561644">
+        <state line="59" column="30" selection-start="1715" selection-end="1715" vertical-scroll-proportion="0.0">
           <folding>
             <element signature="e#237#268#0" expanded="false" />
-            <element signature="e#726#747#0" expanded="false" />
-            <element signature="e#1274#1290#0" expanded="false" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/OperasiPerbandingan.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="24" column="31" selection-start="828" selection-end="828" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/OperasiBoolean.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="18" column="37" selection-start="654" selection-end="654" vertical-scroll-proportion="0.83835614">
+          <folding />
         </state>
       </provider>
     </entry>
