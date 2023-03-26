@@ -78,7 +78,6 @@ public class ForLoop {
           ********
          *********
         */
-
         int f, g, h;
         for(f = 10; 1 < f;){
             System.out.println();
@@ -119,6 +118,33 @@ public class ForLoop {
 
             for(k = 10; k > i; k--){
                 System.out.print(i);
+            }
+        }
+
+        /*
+        output
+                         *
+                        ***
+                       *****
+                      *******
+                     *********
+                    ***********
+                   *************
+                  ***************
+                 *****************
+        */
+        int l, m, n, o;
+        for( l = 0; l < 10; l++){
+            System.out.println();
+            for(m = 10; m > l; m--){
+                System.out.print(" ");
+            }
+            for(n = 0; n < l; n++){
+                System.out.print("*");
+            }
+
+            for( o = 1; o < n; o++){
+                System.out.print("*");
             }
         }
     }
